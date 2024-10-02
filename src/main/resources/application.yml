@@ -1,0 +1,30 @@
+spring:
+  application:
+    name: CoffeeMachine
+
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    username: makar
+    password: 12345
+    url: jdbc:postgresql://localhost:5432/coffee_machine
+  jpa:
+      database: postgresql
+      show-sql: true
+      hibernate:
+        ddl-auto: update
+
+
+server:
+    port: 8082
+    error:
+      include-message: always
+      include-stacktrace: never
+
+logging:
+    level:
+      org.hibernate.engine:
+        transaction: debug
+
+machine:
+  api:
+    version: 0
