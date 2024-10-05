@@ -1,29 +1,30 @@
 package com.coffeemachine.dto.client_api;
 
+import com.coffeemachine.dto.ReceiptDto;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.fasterxml.jackson.databind.PropertyNamingStrategies;
 import com.fasterxml.jackson.databind.annotation.JsonNaming;
-import lombok.Value;
+import io.swagger.v3.oas.annotations.media.Schema;
+import lombok.*;
 
 import java.io.Serializable;
-import java.util.Set;
+import java.util.List;
 
-/**
- * DTO for {@link com.coffeemachine.entities.Drink}
- */
-@Value
+
+@AllArgsConstructor
 @JsonNaming(PropertyNamingStrategies.SnakeCaseStrategy.class)
+@NoArgsConstructor
+@Getter
+@Setter
 public class DrinkResponseDto implements Serializable {
-    String name;
+    @Schema(example = "1")
+    @JsonProperty("id")
+    private Long coffeeId;
+
+    @Schema(example = "latte")
+    @JsonProperty("name")
+    private String coffeeName;
 
     @JsonProperty("ingredients")
-    Set<ReceiptDto> receiptSet;
-
-    /**
-     * DTO for {@link com.coffeemachine.entities.Receipt}
-     */
-    @Value
-    public static class ReceiptDto implements Serializable {
-        String ingredientName;
-    }
+    private List<ReceiptDto> receiptList;
 }

@@ -2,6 +2,7 @@ package com.coffeemachine.entities;
 
 
 import jakarta.persistence.*;
+import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
@@ -12,7 +13,7 @@ import java.util.Set;
 @Table(name = "ingredients")
 @Getter
 @Setter
-@NoArgsConstructor
+@AllArgsConstructor
 public class Ingredient {
 
     @Id
@@ -28,8 +29,16 @@ public class Ingredient {
     @OneToMany(mappedBy = "ingredient")
     private Set<Receipt> receipts;
 
+    public final static Long BASE_TANK_CAPACITY_ML = 1000L;
+
     public Ingredient(String name) {
         this.name = name;
         this.tankRemainderMl = 1000;
     }
+
+    public Ingredient() {
+        this.tankRemainderMl = 1000;
+    }
+
+
 }

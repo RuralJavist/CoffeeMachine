@@ -1,0 +1,1140 @@
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+08:11:13.018 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 413247 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+08:11:13.019 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+08:11:13.019 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+08:15:00.740 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 413579 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+08:15:00.741 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+08:15:00.741 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+17:47:41.131 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 418536 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+17:47:41.132 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+17:47:41.132 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+17:49:22.346 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 418731 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+17:49:22.347 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+17:49:22.348 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+17:51:31.531 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 418943 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+17:51:31.532 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+17:51:31.532 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+17:52:24.574 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 419106 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+17:52:24.575 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+17:52:24.576 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+17:53:10.337 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 419279 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+17:53:10.337 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+17:53:10.338 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+17:55:42.810 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 419501 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+17:55:42.811 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+17:55:42.811 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+17:57:05.026 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 419692 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+17:57:05.027 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+17:57:05.027 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:02:44.678 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420036 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:02:44.679 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:02:44.680 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:03:21.229 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420220 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:03:21.230 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:03:21.230 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:04:12.933 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420382 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:04:12.934 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:04:12.935 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:06:03.862 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420666 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:06:03.863 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:06:03.863 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:06:06.310 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 2.751 seconds (process running for 3.128)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:06:42.107 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420854 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:06:42.108 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:06:42.108 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:06:45.004 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.211 seconds (process running for 3.56)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:06:55.495 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420854 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:06:55.496 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:06:55.496 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:06:56.504 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.043 seconds (process running for 15.06)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:07:02.968 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420854 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:07:02.968 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:07:02.968 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:07:04.552 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.604 seconds (process running for 23.108)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:07:06.008 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420854 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:07:06.008 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:07:06.008 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:07:06.962 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.978 seconds (process running for 25.518)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:07:59.535 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420854 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:07:59.536 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:07:59.536 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:08:00.138 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.617 seconds (process running for 78.693)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:08:08.614 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420854 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:08:08.614 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:08:08.614 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:08:09.298 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.704 seconds (process running for 87.854)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:09:35.946 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420854 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:09:35.946 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:09:35.946 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:09:36.986 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.061 seconds (process running for 175.541)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:09:50.464 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420854 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:09:50.464 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:09:50.465 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:09:51.289 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.845 seconds (process running for 189.844)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:10:10.778 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420854 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:10:10.778 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:10:10.778 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:10:11.739 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.976 seconds (process running for 210.294)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:13:04.611 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420854 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:13:04.611 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:13:04.611 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:13:05.252 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.662 seconds (process running for 383.807)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:13:06.701 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420854 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:13:06.701 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:13:06.701 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:13:08.079 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.397 seconds (process running for 386.635)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:28:15.713 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420854 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:28:15.713 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:28:15.713 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:28:17.307 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.616 seconds (process running for 524.3)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:28:18.767 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420854 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:28:18.767 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:28:18.767 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:28:19.685 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.935 seconds (process running for 526.678)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:29:23.277 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420854 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:29:23.277 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:29:23.277 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:32:27.754 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420854 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:32:27.754 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:32:27.754 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:34:55.734 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420854 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:34:55.734 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:34:55.734 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:34:56.616 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.903 seconds (process running for 923.609)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:34:58.071 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 420854 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:34:58.071 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:34:58.071 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:34:59.476 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.42 seconds (process running for 926.469)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:40:43.586 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 425166 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:40:43.587 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:40:43.587 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:40:46.631 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.361 seconds (process running for 3.708)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:42:56.433 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 425166 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:42:56.434 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:42:56.434 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:42:57.309 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.911 seconds (process running for 134.386)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:42:58.769 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 425166 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:42:58.769 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:42:58.769 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:42:59.987 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.243 seconds (process running for 137.064)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:43:33.526 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 425166 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:43:33.527 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:43:33.527 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:43:34.268 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.767 seconds (process running for 171.345)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:44:50.904 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 425166 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:44:50.904 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:44:50.904 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:44:52.407 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 425166 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:44:52.407 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:44:52.407 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:46:48.725 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 426239 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:46:48.725 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:46:48.726 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:46:54.732 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 6.469 seconds (process running for 6.968)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:47:05.190 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 426239 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:47:05.190 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:47:05.190 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:47:06.658 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.489 seconds (process running for 18.893)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:47:13.121 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 426239 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:47:13.121 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:47:13.121 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:47:14.511 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.41 seconds (process running for 26.747)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:48:14.110 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 426239 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:48:14.110 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:48:14.110 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:48:15.186 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.098 seconds (process running for 87.422)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:48:48.730 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 426239 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:48:48.730 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:48:48.731 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:48:49.800 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.093 seconds (process running for 122.036)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:48:51.258 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 426239 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:48:51.258 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:48:51.258 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:48:52.212 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.975 seconds (process running for 124.447)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:49:18.128 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 426239 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:49:18.128 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:49:18.128 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:49:19.031 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.925 seconds (process running for 151.267)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:49:20.479 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 426239 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:49:20.479 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:49:20.479 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:49:21.097 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.637 seconds (process running for 153.333)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:50:10.673 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 426239 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:50:10.673 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:50:10.673 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:50:12.088 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.436 seconds (process running for 204.324)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:50:44.564 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 426239 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:50:44.564 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:50:44.564 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:50:45.516 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.969 seconds (process running for 237.752)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:54:43.536 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 426239 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:54:43.536 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:54:43.536 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:54:44.266 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.752 seconds (process running for 476.502)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:54:45.715 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 426239 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:54:45.715 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:54:45.715 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:54:46.945 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.248 seconds (process running for 479.181)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:57:39.053 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 428304 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:57:39.053 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:57:39.054 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:57:42.781 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 4.06 seconds (process running for 4.447)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:58:24.325 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 428304 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:58:24.325 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:58:24.325 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:58:25.399 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.094 seconds (process running for 47.065)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+18:59:15.989 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 428304 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+18:59:15.989 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+18:59:15.990 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+18:59:17.303 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.334 seconds (process running for 98.969)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:00:45.979 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 428304 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:00:45.980 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:00:45.980 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:00:47.185 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.233 seconds (process running for 188.851)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:00:48.652 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 428304 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:00:48.652 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:00:48.652 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:00:49.986 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.355 seconds (process running for 191.651)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:02:51.138 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 428304 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:02:51.138 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:02:51.139 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:02:53.124 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 2.007 seconds (process running for 314.789)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:06:32.262 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 428304 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:06:32.262 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:06:32.262 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:06:33.879 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.637 seconds (process running for 535.545)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:06:35.333 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 428304 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:06:35.333 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:06:35.333 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:06:35.860 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.544 seconds (process running for 537.526)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:06:49.400 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 428304 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:06:49.400 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:06:49.400 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:06:50.082 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.711 seconds (process running for 551.748)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:14:00.376 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 428304 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:14:00.376 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:14:00.377 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:14:02.361 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 428304 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:14:02.361 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:14:02.361 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:14:03.278 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.93 seconds (process running for 984.944)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:17:47.857 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 428304 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:17:47.857 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:17:47.857 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:17:48.599 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.762 seconds (process running for 1210.265)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:17:50.101 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 428304 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:17:50.101 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:17:50.101 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:17:52.546 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 2.469 seconds (process running for 1214.212)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:19:34.399 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 428304 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:19:34.399 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:19:34.399 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:19:36.340 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 428304 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:19:36.340 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:19:36.340 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:19:38.580 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 2.253 seconds (process running for 1320.246)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:24:00.752 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 431777 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:24:00.752 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:24:00.753 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:24:03.890 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.471 seconds (process running for 3.823)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:24:23.460 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 431777 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:24:23.460 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:24:23.460 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:24:25.161 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.743 seconds (process running for 25.094)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:25:57.935 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 431777 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:25:57.935 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:25:57.936 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:25:59.569 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.659 seconds (process running for 119.502)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:26:01.056 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 431777 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:26:01.056 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:26:01.057 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:26:02.861 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.835 seconds (process running for 122.794)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:26:31.459 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 431777 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:26:31.459 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:26:31.460 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:26:32.876 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.454 seconds (process running for 152.81)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:27:14.488 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 431777 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:27:14.488 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:27:14.488 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:27:15.533 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.078 seconds (process running for 195.466)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:27:35.089 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 431777 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:27:35.090 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:27:35.090 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:27:37.164 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 2.108 seconds (process running for 217.098)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:27:50.703 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 431777 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:27:50.703 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:27:50.703 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:27:51.567 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.898 seconds (process running for 231.501)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:31:56.960 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 432772 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:31:56.960 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:31:56.961 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:31:59.898 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.257 seconds (process running for 3.597)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:33:50.766 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 432772 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:33:50.767 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:33:50.767 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:33:52.105 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.384 seconds (process running for 115.804)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:33:53.601 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 432772 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:33:53.601 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:33:53.601 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:33:55.008 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.439 seconds (process running for 118.707)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:34:19.536 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 432772 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:34:19.536 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:34:19.537 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:34:20.515 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.0 seconds (process running for 144.215)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:34:38.034 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 432772 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:34:38.034 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:34:38.034 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:34:38.871 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.863 seconds (process running for 162.57)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:34:40.370 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 432772 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:34:40.371 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:34:40.371 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:34:41.565 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.228 seconds (process running for 165.264)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:34:52.092 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 432772 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:34:52.093 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:34:52.093 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:34:53.797 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.736 seconds (process running for 177.496)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:36:14.416 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 433654 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:36:14.416 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:36:14.417 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:36:17.646 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.563 seconds (process running for 3.917)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:43:55.261 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 434349 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:43:55.262 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:43:55.262 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:43:58.861 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.95 seconds (process running for 4.306)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:44:24.391 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 434349 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:44:24.391 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:44:24.391 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:44:25.135 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.765 seconds (process running for 30.579)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:47:19.099 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 435001 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:47:19.100 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:47:19.100 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:47:22.277 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.502 seconds (process running for 3.851)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:48:13.955 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 435001 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:48:13.955 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:48:13.955 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:48:14.755 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.844 seconds (process running for 56.329)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:49:46.939 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 435001 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:49:46.939 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:49:46.939 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:49:47.845 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.932 seconds (process running for 149.419)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:49:49.337 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 435001 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:49:49.337 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:49:49.337 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:49:50.632 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.331 seconds (process running for 152.206)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:51:28.452 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 435001 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:51:28.453 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:51:28.453 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:51:29.691 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.276 seconds (process running for 251.265)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:51:37.179 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 435001 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:51:37.179 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:51:37.179 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:51:38.263 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.111 seconds (process running for 259.837)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:53:58.173 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 435001 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:53:58.173 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:53:58.173 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:53:59.640 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.492 seconds (process running for 401.214)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:54:01.122 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 435001 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:54:01.122 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:54:01.122 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:54:02.211 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.114 seconds (process running for 403.785)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:54:28.755 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 435001 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:54:28.755 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:54:28.756 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:54:29.963 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.225 seconds (process running for 431.537)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:54:31.449 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 435001 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:54:31.449 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:54:31.450 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:54:32.555 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.128 seconds (process running for 434.129)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:54:50.078 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 436051 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:54:50.078 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:54:50.079 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:54:53.237 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.475 seconds (process running for 4.11)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:56:58.550 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 436051 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:56:58.550 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:56:58.550 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:56:59.708 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.191 seconds (process running for 130.58)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:57:01.256 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 436051 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:57:01.257 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:57:01.257 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:57:02.596 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.38 seconds (process running for 133.468)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+19:57:18.296 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 436455 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+19:57:18.296 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+19:57:18.297 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+19:57:21.270 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.306 seconds (process running for 3.656)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:09:08.723 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 436455 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:09:08.723 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:09:08.723 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:09:09.690 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.988 seconds (process running for 64.391)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:10:03.345 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 436455 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:10:03.345 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:10:03.345 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:10:04.631 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.316 seconds (process running for 119.332)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:10:06.123 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 436455 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:10:06.123 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:10:06.123 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:10:07.074 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.985 seconds (process running for 121.775)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:10:27.600 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 436455 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:10:27.600 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:10:27.600 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:10:28.984 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.41 seconds (process running for 143.685)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:11:03.588 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 436455 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:11:03.588 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:11:03.588 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:11:04.329 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.779 seconds (process running for 179.03)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:11:36.892 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 436455 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:11:36.892 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:11:36.892 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:11:38.002 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.132 seconds (process running for 212.703)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:12:26.843 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 437680 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:12:26.844 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:12:26.844 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:12:30.020 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.514 seconds (process running for 3.874)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:14:46.930 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 437680 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:14:46.931 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:14:46.931 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:14:48.296 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.401 seconds (process running for 142.151)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:18:44.539 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 437680 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:18:44.539 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:18:44.539 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:18:45.625 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.113 seconds (process running for 379.479)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:18:47.122 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 437680 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:18:47.123 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:18:47.123 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:18:48.309 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.224 seconds (process running for 382.164)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:19:18.886 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 437680 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:19:18.886 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:19:18.886 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:19:20.005 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.15 seconds (process running for 413.86)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:23:59.802 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 438957 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:23:59.802 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:23:59.803 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:24:02.910 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.433 seconds (process running for 3.794)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:24:40.876 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 439183 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:24:40.876 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:24:40.877 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:24:44.371 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.817 seconds (process running for 4.17)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:25:25.999 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 439183 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:25:25.999 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:25:25.999 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:25:27.111 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.142 seconds (process running for 46.911)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:25:37.632 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 439183 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:25:37.633 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:25:37.633 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:25:39.605 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 2.009 seconds (process running for 59.404)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:25:54.144 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 439183 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:25:54.144 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:25:54.145 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:25:55.598 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.491 seconds (process running for 75.397)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:26:12.106 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 439183 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:26:12.107 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:26:12.107 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:26:13.085 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.0 seconds (process running for 92.885)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:28:01.891 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 439183 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:28:01.891 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:28:01.891 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:28:02.892 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.022 seconds (process running for 202.692)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:28:04.350 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 439183 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:28:04.350 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:28:04.350 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:28:05.385 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.056 seconds (process running for 205.184)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:28:14.908 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 439183 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:28:14.908 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:28:14.909 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:28:16.551 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.675 seconds (process running for 216.351)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:28:38.064 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 439183 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:28:38.064 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:28:38.064 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:28:38.814 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.766 seconds (process running for 238.613)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:29:30.025 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 440313 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:29:30.025 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:29:30.026 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:29:32.700 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 2.99 seconds (process running for 3.345)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:30:50.691 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 440623 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:30:50.691 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:30:50.692 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:30:54.708 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 4.353 seconds (process running for 4.701)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:36:31.297 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 441036 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:36:31.297 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:36:31.298 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:36:34.319 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.346 seconds (process running for 3.735)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:37:46.044 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 441036 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:37:46.044 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:37:46.044 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:37:47.476 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.471 seconds (process running for 76.891)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:38:14.062 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 441036 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:38:14.062 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:38:14.062 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:38:15.134 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.107 seconds (process running for 104.549)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:42:30.447 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 441036 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:42:30.448 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:42:30.448 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:42:31.376 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.966 seconds (process running for 360.792)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:43:46.118 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 441036 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:43:46.118 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:43:46.118 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:43:46.960 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.88 seconds (process running for 436.376)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:45:02.879 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 441852 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:45:02.880 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:45:02.880 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:45:05.668 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.113 seconds (process running for 3.472)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:45:40.015 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 442062 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:45:40.016 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:45:40.016 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:45:43.296 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.607 seconds (process running for 3.967)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:46:46.345 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 442303 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:46:46.345 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:46:46.346 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:46:49.413 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.39 seconds (process running for 3.747)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:47:17.962 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 442303 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:47:17.962 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:47:17.962 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:47:18.669 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.731 seconds (process running for 33.004)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:47:30.223 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 442303 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:47:30.223 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:47:30.223 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:47:31.407 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.228 seconds (process running for 45.742)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:48:05.974 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 442303 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:48:05.974 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:48:05.974 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:48:07.676 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.726 seconds (process running for 82.01)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:49:56.515 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 442852 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:49:56.515 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:49:56.516 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:50:00.289 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 4.113 seconds (process running for 4.473)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:50:44.332 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 442852 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:50:44.332 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:50:44.333 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:50:46.864 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 2.558 seconds (process running for 51.048)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:51:57.551 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 442852 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:51:57.552 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:51:57.552 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:51:58.911 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.387 seconds (process running for 123.095)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:52:06.396 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 442852 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:52:06.396 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:52:06.396 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:52:07.189 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.814 seconds (process running for 131.373)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:53:09.975 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 443438 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:53:09.975 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:53:09.975 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:53:14.358 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 4.717 seconds (process running for 5.763)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:54:20.337 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 443682 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:54:20.338 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:54:20.338 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:54:23.850 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.85 seconds (process running for 4.471)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:54:48.446 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 443682 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:54:48.446 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:54:48.446 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:54:50.193 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.796 seconds (process running for 30.814)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:55:52.882 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 443682 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:55:52.882 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:55:52.882 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:55:54.837 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.984 seconds (process running for 95.459)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:56:33.419 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 443682 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:56:33.419 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:56:33.419 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:56:34.038 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.637 seconds (process running for 134.659)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:56:58.597 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 443682 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:56:58.597 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:56:58.597 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:56:59.407 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.837 seconds (process running for 160.028)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:57:25.974 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 443682 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:57:25.974 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:57:25.974 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:57:27.210 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.266 seconds (process running for 187.831)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:57:36.317 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 444432 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:57:36.317 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:57:36.318 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:57:40.140 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 4.223 seconds (process running for 4.986)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+20:59:26.768 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 444674 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+20:59:26.769 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+20:59:26.770 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+20:59:30.515 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 4.11 seconds (process running for 4.65)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:02:58.429 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 445102 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:02:58.429 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:02:58.430 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+21:03:01.953 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.978 seconds (process running for 4.671)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:05:10.834 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 445102 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:05:10.834 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:05:10.834 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+21:05:12.584 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.774 seconds (process running for 135.301)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:05:14.140 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 445102 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:05:14.141 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:05:14.141 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+21:05:14.981 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.885 seconds (process running for 137.698)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:05:26.508 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 445102 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:05:26.509 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:05:26.509 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:05:28.187 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 445102 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:05:28.187 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:05:28.187 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+21:05:29.022 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.863 seconds (process running for 151.739)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:05:39.537 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 445102 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:05:39.538 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:05:39.538 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+21:05:40.279 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.777 seconds (process running for 162.996)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:05:44.743 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 445102 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:05:44.743 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:05:44.743 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+21:05:45.525 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.801 seconds (process running for 168.242)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:06:01.060 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 445102 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:06:01.061 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:06:01.061 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+21:06:02.148 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.118 seconds (process running for 184.866)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:06:54.773 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 445102 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:06:54.774 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:06:54.774 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+21:06:55.707 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.952 seconds (process running for 238.425)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:28:34.777 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 445102 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:28:34.777 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:28:34.777 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:29:12.697 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 445102 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:29:12.697 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:29:12.697 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+21:29:14.007 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.336 seconds (process running for 1410.923)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:36:43.121 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 445102 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:36:43.121 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:36:43.121 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:37:45.490 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 449221 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:37:45.490 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:37:45.491 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+21:37:48.429 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.281 seconds (process running for 3.638)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:39:59.829 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 449490 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:39:59.829 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:39:59.830 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+21:40:02.891 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.385 seconds (process running for 3.742)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:40:41.431 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 449490 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:40:41.431 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:40:41.431 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+21:40:42.431 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.022 seconds (process running for 43.281)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:40:44.024 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 449784 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:40:44.024 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:40:44.025 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+21:40:48.675 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 5.021 seconds (process running for 5.469)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:54:55.093 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 451306 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:54:55.093 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:54:55.094 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+21:54:58.356 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.59 seconds (process running for 3.964)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:55:56.954 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 451306 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:55:56.954 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:55:56.954 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+21:55:58.240 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.314 seconds (process running for 63.848)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:55:59.707 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 451306 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:55:59.707 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:55:59.707 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+21:56:00.625 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.943 seconds (process running for 66.233)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+21:56:43.196 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 451306 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+21:56:43.196 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+21:56:43.196 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+21:56:44.535 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.363 seconds (process running for 110.143)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:04:41.547 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 452455 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:04:41.548 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:04:41.548 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+22:04:44.445 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.216 seconds (process running for 3.665)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:04:57.923 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 452455 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:04:57.923 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:04:57.923 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+22:04:59.126 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.227 seconds (process running for 18.346)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:05:20.977 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 452771 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:05:20.978 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:05:20.978 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+22:05:24.909 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 4.301 seconds (process running for 4.697)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:07:47.219 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 453076 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:07:47.219 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:07:47.220 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+22:07:50.563 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.705 seconds (process running for 4.19)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:07:58.026 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 453076 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:07:58.026 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:07:58.026 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+22:07:59.162 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.161 seconds (process running for 12.789)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:11:51.760 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 453540 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:11:51.761 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:11:51.761 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+22:11:54.949 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.544 seconds (process running for 3.977)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:13:18.349 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 453803 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:13:18.349 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:13:18.350 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+22:13:21.468 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.474 seconds (process running for 3.929)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:21:31.305 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 454758 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:21:31.305 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:21:31.306 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+22:21:34.946 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.961 seconds (process running for 4.421)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:22:56.233 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 455164 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:22:56.234 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:22:56.234 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+22:22:59.055 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.131 seconds (process running for 3.534)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:23:25.155 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 455373 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:23:25.155 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:23:25.156 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+22:23:28.356 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.521 seconds (process running for 3.887)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:31:40.547 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 455373 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:31:40.548 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:31:40.548 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:31:42.631 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 455373 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:31:42.631 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:31:42.631 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:33:18.210 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 456549 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:33:18.210 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:33:18.211 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:34:12.689 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 456709 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:34:12.689 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:34:12.689 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:37:00.037 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 456887 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:37:00.038 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:37:00.038 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:43:00.247 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 457960 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:43:00.248 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:43:00.248 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:53:02.715 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 458874 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:53:02.716 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:53:02.717 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+22:53:06.709 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 4.334 seconds (process running for 4.738)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:53:29.586 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 459033 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:53:29.587 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:53:29.587 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+22:53:32.670 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.474 seconds (process running for 4.189)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:54:39.819 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 459258 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:54:39.820 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:54:39.820 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+22:54:43.018 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.528 seconds (process running for 4.115)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:55:50.729 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 459474 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:55:50.729 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:55:50.730 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+22:55:54.222 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.834 seconds (process running for 4.226)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:57:26.397 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 459474 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:57:26.397 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:57:26.397 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:57:29.078 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 459825 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:57:29.079 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:57:29.079 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+22:57:33.641 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 4.877 seconds (process running for 5.74)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:58:58.678 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 460186 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:58:58.678 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:58:58.679 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+22:59:02.413 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 4.185 seconds (process running for 4.861)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+22:59:14.940 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 460186 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+22:59:14.941 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+22:59:14.941 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+22:59:16.175 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.261 seconds (process running for 18.623)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:00:46.036 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 460621 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:00:46.036 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:00:46.037 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:00:49.382 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.646 seconds (process running for 4.067)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:00:51.847 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 460621 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:00:51.848 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:00:51.848 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:00:52.860 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.04 seconds (process running for 7.545)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:00:54.325 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 460621 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:00:54.326 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:00:54.326 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:00:55.545 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.242 seconds (process running for 10.23)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:02:04.589 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 461003 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:02:04.590 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:02:04.590 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:02:07.301 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.03 seconds (process running for 3.388)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:02:35.848 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 461003 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:02:35.848 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:02:35.848 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:02:37.120 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.294 seconds (process running for 33.207)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:02:38.652 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 461003 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:02:38.653 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:02:38.653 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:02:39.820 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.208 seconds (process running for 35.907)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:04:17.596 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 461003 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:04:17.597 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:04:17.597 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:04:18.528 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.951 seconds (process running for 134.614)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:04:59.126 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 461003 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:04:59.126 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:04:59.126 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:05:00.034 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.935 seconds (process running for 176.12)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:05:01.565 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 461003 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:05:01.565 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:05:01.565 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:05:02.915 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.402 seconds (process running for 179.001)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:05:50.986 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 461651 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:05:50.986 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:05:50.986 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:05:54.018 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.379 seconds (process running for 3.748)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:06:09.573 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 461651 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:06:09.573 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:06:09.573 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:06:10.679 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.158 seconds (process running for 20.408)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:06:52.286 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 461651 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:06:52.286 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:06:52.286 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:06:53.380 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.121 seconds (process running for 63.11)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:06:54.869 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 461651 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:06:54.870 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:06:54.870 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:06:55.859 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.024 seconds (process running for 65.589)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:08:00.764 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 462200 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:08:00.765 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:08:00.765 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:08:03.637 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.21 seconds (process running for 3.578)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:11:02.215 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 462451 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:11:02.215 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:11:02.215 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:11:05.402 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.524 seconds (process running for 3.965)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:13:32.730 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 462765 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:13:32.731 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:13:32.732 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:13:36.602 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 4.231 seconds (process running for 4.996)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:15:52.270 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 463204 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:15:52.271 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:15:52.271 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:15:55.515 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.616 seconds (process running for 4.103)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:16:25.797 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 463430 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:16:25.797 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:16:25.798 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:16:29.247 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.784 seconds (process running for 4.152)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:17:06.235 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 463662 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:17:06.236 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:17:06.236 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:17:09.218 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.327 seconds (process running for 3.793)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:17:23.294 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 463842 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:17:23.294 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:17:23.295 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:17:26.891 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.939 seconds (process running for 4.306)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:18:26.935 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 463842 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:18:26.935 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:18:26.935 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:22:31.431 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 464322 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:22:31.431 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:22:31.432 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:22:34.573 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.479 seconds (process running for 3.972)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:23:16.242 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 464577 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:23:16.242 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:23:16.243 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:23:19.256 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.347 seconds (process running for 3.78)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:23:38.761 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 464577 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:23:38.761 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:23:38.762 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:23:39.959 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.222 seconds (process running for 24.482)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:23:45.438 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 464577 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:23:45.438 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:23:45.438 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:23:46.463 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.048 seconds (process running for 30.986)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:23:57.555 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 464960 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:23:57.555 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:23:57.555 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:24:00.661 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.443 seconds (process running for 3.866)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:24:20.194 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 464960 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:24:20.194 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:24:20.194 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:24:21.197 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.031 seconds (process running for 24.402)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:24:23.659 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 464960 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:24:23.659 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:24:23.659 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:24:24.877 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.24 seconds (process running for 28.081)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:24:27.338 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 464960 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:24:27.338 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:24:27.338 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:24:28.056 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.74 seconds (process running for 31.261)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:29:01.213 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 464960 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:29:01.213 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:29:01.214 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:29:03.137 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 464960 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:29:03.137 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:29:03.137 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:29:04.423 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.303 seconds (process running for 214.682)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:29:39.050 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 464960 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:29:39.050 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:29:39.050 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:29:40.248 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.237 seconds (process running for 250.507)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:30:21.858 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 464960 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:30:21.858 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:30:21.858 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:30:24.460 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 464960 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:30:24.460 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:30:24.460 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:30:25.481 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.038 seconds (process running for 295.74)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:40:59.595 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 467434 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:40:59.595 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:40:59.595 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:41:03.915 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 4.655 seconds (process running for 5.114)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:41:18.459 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 467434 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:41:18.459 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:41:18.459 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:41:19.300 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.874 seconds (process running for 20.499)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:41:56.912 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 467434 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:41:56.912 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:41:56.912 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:41:57.651 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.778 seconds (process running for 58.85)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:42:51.283 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 467434 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:42:51.283 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:42:51.283 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:42:51.941 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.683 seconds (process running for 113.14)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:43:10.453 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 467434 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:43:10.453 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:43:10.453 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:43:11.620 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.187 seconds (process running for 132.819)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:43:16.148 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 467434 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:43:16.148 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:43:16.148 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:43:17.158 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.047 seconds (process running for 138.357)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:44:12.693 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 468191 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:44:12.693 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:44:12.694 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:44:16.645 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 4.276 seconds (process running for 4.773)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:44:34.198 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 468191 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:44:34.198 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:44:34.198 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:44:35.651 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.492 seconds (process running for 23.779)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:56:48.583 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 469787 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:56:48.584 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:56:48.584 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:56:52.129 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 3.954 seconds (process running for 4.411)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:57:32.139 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 469787 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:57:32.140 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:57:32.140 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:57:33.396 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.281 seconds (process running for 45.678)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:57:34.970 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 469787 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:57:34.971 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:57:34.971 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:57:36.596 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.678 seconds (process running for 48.878)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:58:38.311 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 469787 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:58:38.312 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:58:38.312 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:58:39.254 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 0.974 seconds (process running for 111.536)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:59:27.946 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 470314 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:59:27.947 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:59:27.948 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:59:32.153 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 4.526 seconds (process running for 5.153)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n
+23:59:37.613 INFO  c.c.CoffeeMachineApplication - Starting CoffeeMachineApplication using Java 17.0.11 with PID 470314 (/home/makar/IdeaProjects/CoffeeMachine/target/classes started by makar in /home/makar/IdeaProjects/CoffeeMachine)
+23:59:37.613 DEBUG c.c.CoffeeMachineApplication - Running with Spring Boot v3.3.4, Spring v6.1.13
+23:59:37.613 INFO  c.c.CoffeeMachineApplication - No active profile set, falling back to 1 default profile: "default"
+23:59:39.306 INFO  c.c.CoffeeMachineApplication - Started CoffeeMachineApplication in 1.714 seconds (process running for 12.307)
+#logback.classic pattern: %d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n

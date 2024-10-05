@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<configuration>
+<configuration debug="true">
 
-    <include resource="org/springframework/boot/logging/logback/defaults.xml"/>
-    <include resource="org/springframework/boot/logging/logback/console-appender.xml"/>
+    <import class="ch.qos.logback.classic.encoder.PatternLayoutEncoder" />
+    <import class="ch.qos.logback.core.ConsoleAppender" />
 
-    <property name="MAIN-LOG-FILE" value="ParserService/src/main/resources/logs/parser.log"/>
-    <appender name="PARSER-LOGS" class="ch.qos.logback.core.rolling.RollingFileAppender">
+    <property name="MAIN-LOG-FILE" value="src/main/resources/logs/coffee_machine.log"/>
+    <appender name="COFFEE_MACHINE_LOGS" class="ch.qos.logback.core.rolling.RollingFileAppender">
         <file>${MAIN-LOG-FILE}</file>
         <rollingPolicy class="ch.qos.logback.core.rolling.SizeAndTimeBasedRollingPolicy">
-            <fileNamePattern>ParserService/src/main/resources/logs/parser.%d{yyyy-MM-dd}.%i.log</fileNamePattern>
+            <fileNamePattern>src/main/resources/logs/coffee_machine.%d{yyyy-MM-dd}.%i.log</fileNamePattern>
             <!-- each archived file, size max 10MB -->
             <maxFileSize>10MB</maxFileSize>
             <!-- total size of all archive files, if total size > 500MB, it will delete old archived file -->
@@ -23,13 +23,19 @@
         </encoder>
     </appender>
 
+    <appender  name = "STDOUT"  class = "ch.qos.logback.core.ConsoleAppender" >
+        <encoder >
+            <pattern> %highlight([%d{HH:mm:ss.SSS}] [%thread] %-5level %logger{36} - %msg%n) </pattern>
+        </encoder>
+    </appender>
 
-    <logger name="com.postroyka.parser" level="DEBUG" additivity="true">
-        <appender-ref ref="PARSER-LOGS"/>
+
+    <logger name="com.coffeemachine" level="debug" additivity="true">
+        <appender-ref ref="COFFEE_MACHINE_LOGS"/>
     </logger>
 
-    <root  level = "INFO" >
-        <appender-ref  ref = "CONSOLE" />
+    <root  level = "info">
+        <appender-ref ref="STDOUT"/>
     </root>
 
 </configuration>

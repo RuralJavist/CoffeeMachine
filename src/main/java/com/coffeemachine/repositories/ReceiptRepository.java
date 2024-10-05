@@ -9,7 +9,6 @@ import org.springframework.stereotype.Repository;
 import java.util.List;
 
 @Repository
-public interface ReceiptRepository extends JpaRepository<Receipt, RecipeKey> {
-
+public interface ReceiptRepository extends SimpleRepository<Receipt, RecipeKey> {
 
 }

@@ -28,3 +28,7 @@ logging:
 machine:
   api:
     version: 0
+
+swagger:
+  api:
+    version: 0.1

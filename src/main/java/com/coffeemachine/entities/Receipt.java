@@ -13,38 +13,25 @@ import lombok.Setter;
 public class Receipt {
 
     @EmbeddedId
-    private RecipeKey recipeKey;
+    private RecipeKey id;
 
     @MapsId("drinkId")
-    @ManyToOne(optional = false)
+    @ManyToOne
     @JoinColumn(name = "drink_id", nullable = false)
     private Drink drink;
 
     @MapsId("ingredientId")
-    @ManyToOne(optional = false)
+    @ManyToOne
     @JoinColumn(name = "ingredient_id", nullable = false)
     private Ingredient ingredient;
 
     @Column(name = "percentage_ratio", nullable = false)
     private Integer percentageRatio;
 
-    @Column(name = "tank_consumption", nullable = false)
-    private Integer tankConsumptionMl;
-
-    @Transient
-    private final static int TANK_CONSUMPTION = 50;
-
     public Receipt(Drink drink, Ingredient ingredient, Integer percentageRatio) {
         this.drink = drink;
         this.ingredient = ingredient;
         this.percentageRatio = percentageRatio;
-        this.tankConsumptionMl = TANK_CONSUMPTION;
-    }
-
-    public Receipt(Drink drink, Ingredient ingredient, Integer percentageRatio, Integer tankConsumptionMl) {
-        this.drink = drink;
-        this.ingredient = ingredient;
-        this.percentageRatio = percentageRatio;
-        this.tankConsumptionMl = tankConsumptionMl;
+        this.id = new RecipeKey(drink.getId(), ingredient.getId());
     }
 }

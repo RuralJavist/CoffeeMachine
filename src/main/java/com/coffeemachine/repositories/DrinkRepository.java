@@ -6,7 +6,7 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface DrinkRepository extends JpaRepository<Drink, Long> {
+public interface DrinkRepository extends SimpleRepository<Drink, Long> {
 
     Drink findByName(String name);
 
