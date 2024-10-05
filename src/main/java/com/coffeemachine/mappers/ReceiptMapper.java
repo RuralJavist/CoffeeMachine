@@ -9,10 +9,10 @@ public interface ReceiptMapper extends SimpleMapper<ReceiptDto, Receipt> {
 
     @Override
     @Mapping(source = "ingredient.name", target = "ingredientName")
-    @InheritInverseConfiguration(name = "toEntity")
     ReceiptDto toDto(Receipt entity);
 
     @Override
+    @InheritInverseConfiguration()
     Receipt toEntity(ReceiptDto dto);
 
     @BeanMapping(nullValuePropertyMappingStrategy = NullValuePropertyMappingStrategy.IGNORE)

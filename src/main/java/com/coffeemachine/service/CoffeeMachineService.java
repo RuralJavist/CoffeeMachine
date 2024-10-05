@@ -3,18 +3,12 @@ package com.coffeemachine.service;
 import com.coffeemachine.dto.admin_api.NewCoffeeRequestDto;
 import com.coffeemachine.dto.IngredientDto;
 import com.coffeemachine.dto.client_api.DrinkCookRequestDto;
-import com.coffeemachine.entities.Drink;
-import com.coffeemachine.entities.Ingredient;
-import com.coffeemachine.entities.Rating;
-import com.coffeemachine.entities.Receipt;
+import com.coffeemachine.entities.*;
 import com.coffeemachine.exceptions.IngredientNotFoundException;
 import com.coffeemachine.exceptions.IngredientTankCapacityException;
 import com.coffeemachine.exceptions.RecipeIngredientsUniqueException;
 import com.coffeemachine.exceptions.RecipePreparationException;
-import com.coffeemachine.repositories.DrinkRepository;
-import com.coffeemachine.repositories.IngredientRepository;
-import com.coffeemachine.repositories.RatingRepository;
-import com.coffeemachine.repositories.ReceiptRepository;
+import com.coffeemachine.repositories.*;
 import com.coffeemachine.service.utils.CoffeeMachineServiceUtils;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
@@ -40,7 +34,7 @@ public class CoffeeMachineService {
     private final DrinkRepository drinkRepository;
     private final IngredientRepository ingredientRepository;
     private final ReceiptRepository receiptRepository;
-    private final RatingRepository ratingRepository;
+    private final RatingMetaRepository ratingMetaRepository;
 
 
     @SneakyThrows
@@ -85,10 +79,6 @@ public class CoffeeMachineService {
         }
     }
 
-    //тут скорее всего проверить на уникальность.
-    //дописать:
-    //-это + удаление, дописать еще очистку раз в 5 лет, ограничение, и swagger
-    //подумать мб над безопасностью
     @Transactional
     public void addIngredients(List<IngredientDto> ingredients){
         List<Ingredient> ingredientsEntity = coffeeMachineServiceUtils.dtoConverter(ingredients);
@@ -111,5 +101,12 @@ public class CoffeeMachineService {
     public <T, R> List<T> getAllElements(Class<R> targetEntity, Class<T> targetDto){
         List<R> entityList = coffeeMachineServiceUtils.getElements(targetEntity).stream().sorted().toList();
         return coffeeMachineServiceUtils.entityConverter(targetDto, entityList);
+    }
+
+    @Transactional
+    public void checkRatingMetaInit(){
+        if (ratingMetaRepository.findAll().isEmpty()) {
+            ratingMetaRepository.save(new RatingMetadata());
+        }
     }
 }

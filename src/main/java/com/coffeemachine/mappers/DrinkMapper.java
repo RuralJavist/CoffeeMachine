@@ -11,10 +11,10 @@ public interface DrinkMapper extends SimpleMapper<DrinkResponseDto, Drink> {
     @Mapping(source = "coffeeId", target = "id")
     @Mapping(source = "coffeeName", target = "name")
     @Mapping(source = "receiptList", target = "receipts")
-    @InheritInverseConfiguration(name = "toDto")
     Drink toEntity(DrinkResponseDto dto);
 
     @Override
+    @InheritInverseConfiguration()
     DrinkResponseDto toDto(Drink entity);
 
     @AfterMapping

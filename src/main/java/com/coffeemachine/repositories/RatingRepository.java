@@ -11,4 +11,8 @@ import java.util.List;
 @Repository
 public interface RatingRepository extends SimpleRepository<Rating, Long> {
 
+    @Modifying
+    @Query("update Rating rating set rating.rating = 0")
+    void deleteRatingCounts();
+
 }

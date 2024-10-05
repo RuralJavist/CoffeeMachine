@@ -10,10 +10,10 @@ public interface RatingMapper extends SimpleMapper<DrinkRatingResponseDto, Ratin
     @Override
     @Mapping(target = "name", source = "drink.name")
     @Mapping(target = "rating", source = "rating")
-    @InheritInverseConfiguration(name = "toEntity")
     DrinkRatingResponseDto toDto(Rating dto);
 
     @Override
+    @InheritInverseConfiguration()
     Rating toEntity(DrinkRatingResponseDto dto);
 
     @BeanMapping(nullValuePropertyMappingStrategy = NullValuePropertyMappingStrategy.IGNORE)

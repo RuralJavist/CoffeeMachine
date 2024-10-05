@@ -2,6 +2,12 @@ spring:
   application:
     name: CoffeeMachine
 
+  cache:
+    cache-names:
+      - rate-limit-buckets
+    caffeine:
+      spec: maximumSize=100000,expireAfterAccess=3600s
+
   datasource:
     driver-class-name: org.postgresql.Driver
     username: makar
@@ -10,9 +16,26 @@ spring:
   jpa:
       database: postgresql
       show-sql: true
-      hibernate:
-        ddl-auto: update
 
+  flyway:
+    user: makar
+    password: 12345
+    schemas: coffee_machine
+    locations: filesystem:db/migration
+
+bucket4j:
+  enabled: true
+  filters:
+    - cache-name: rate-limit-buckets
+      url: /api/v0/client/coffee
+      strategy: first
+      http-response-body: "{ \"status\": 429, \"error\": \"Too Many Requests\", \"message\": \"You have exhausted your API Request Quota\" }"
+      rate-limits:
+        - cache-key: "getHeader('X-api-key')"
+          bandwidths:
+            - capacity: 30
+              time: 1
+              unit: hours
 
 server:
     port: 8082
@@ -28,6 +51,10 @@ logging:
 machine:
   api:
     version: 0
+    cleaner:
+        delay: 24
+    statistic:
+        clean-time: 5
 
 swagger:
   api:
